@@ -15,7 +15,7 @@ ____
 Hello and welcome to Animation Nation, a ZTM project for Hacktoberfest 2019! This site aims to showcase the creative talents of the ZTM community :)
 
 # Rules
-
+these are the rules :- 
 The rules are simple. You have to:
 
 - Use HTML `<divs>` and CSS only! No JS, and no SVGs!
